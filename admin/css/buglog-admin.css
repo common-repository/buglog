@@ -1,0 +1,52 @@
+.buglog-form-row {
+    margin-bottom: 20px;
+}
+
+.buglog-form-group {
+    margin-bottom: 5px;
+}
+
+.buglog-radio[type=radio] {
+    vertical-align: bottom;
+}
+
+.buglog-label {
+    color: #444;
+    margin-bottom: 8px;
+    display:block;
+}
+
+.buglog-input {
+    background: #f6f9ff;
+    color: #444;
+    width: 100%;
+    max-width: 300px;
+    border: none;
+    border-radius: 2px;
+    padding: 8px;
+    font-weight: 500;
+    display:block;
+}
+
+.buglog-submit {
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    font-size: 15px;
+    padding: 7px 20px;
+    color: #0073aa;
+    border-radius: 8px;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+
+.buglog-submit:focus {
+    outline: none;
+    box-shadow: 0 1px 3px 0 rgba(36,36,36,0.25);
+}
+
+.buglog-note {
+    font-size: 13px;
+    line-height: 20px;
+}
